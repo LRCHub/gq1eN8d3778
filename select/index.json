@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "愛しき日々",
+  "base_artist": "ノクチル",
+  "createdAt": "2026-03-11T23:23:32.244387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛しき日々",
+      "artist": "堀内孝雄",
+      "has_synced": true,
+      "path": "select/01_愛しき日々_堀内孝雄.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛しき日々",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/02_愛しき日々_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛しき日々",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/03_愛しき日々_サンボマスター.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛しき日々",
+      "artist": "ジェロ",
+      "has_synced": false,
+      "path": "select/04_愛しき日々_ジェロ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛しき日々",
+      "artist": "ノクチル",
+      "has_synced": false,
+      "path": "select/pl_01_愛しき日々_ノクチル.txt"
+    }
+  ]
+}
